@@ -46,6 +46,10 @@ while k > 0:
             k -= 1
             print('Вы не угадали')
             logging.info('the number isn\'t guessed')
+            if num < hidden_num:
+                print('Число {} меньше загаданного'.format(num))
+            else:
+                print('Число {} больше загаданного'.format(num))
             if k == 0:
                 print('Попытки закончились\n')
                 logging.info('attempts ended')
