@@ -1,0 +1,29 @@
+INFO:root:n = 7
+INFO:root:suitable
+INFO:root:k = 3
+INFO:root:hidden_num = 7
+INFO:root:input num = 4
+INFO:root:suitable
+INFO:root:the number isn't guessed
+INFO:root:input num = 6
+INFO:root:suitable
+INFO:root:the number isn't guessed
+INFO:root:input num = 7
+INFO:root:suitable
+INFO:root:the number is guessed
+INFO:root:n = 10
+INFO:root:suitable
+INFO:root:k = 5
+INFO:root:hidden_num = 1
+INFO:root:input num = 5
+INFO:root:suitable
+INFO:root:the number isn't guessed
+INFO:root:input num = 3
+INFO:root:suitable
+INFO:root:the number isn't guessed
+INFO:root:input num = 2
+INFO:root:suitable
+INFO:root:the number isn't guessed
+INFO:root:input num = 1
+INFO:root:suitable
+INFO:root:the number is guessed
